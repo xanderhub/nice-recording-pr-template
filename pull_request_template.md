@@ -17,6 +17,7 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] 🤖 Configuration
 - [ ] 🔁 CI
 - [ ] ⏩ Revert
+- [ ] Change
 
 
 ## Validate the following:
