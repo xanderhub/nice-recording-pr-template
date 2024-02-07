@@ -24,6 +24,11 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] 🔩 Integration test(s)
 - [ ] 🙅 None
 
+## Static analisys:
+
+- [ ] No Sonar issues 
+- [ ] No ESLint issues
+
 ## Check that new tests have:
 
 - [ ] 🔪 Edge cases coverage
