@@ -24,7 +24,7 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] 🔩 Integration test(s)
 - [ ] 🙅 None
 
-## Static analisys:
+## Static analysis:
 
 - [ ] No Sonar issues 
 - [ ] No ESLint issues
